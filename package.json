@@ -1,7 +1,7 @@
 {
-  "name": "jstransformer-foo",
-  "version": "0.0.0",
-  "description": "Foo support for JSTransformers.",
+  "name": "jstransformer-html-minifier",
+  "version": "0.0.1",
+  "description": "HTMLMinifier support for JSTransformers.",
   "keywords": [
     "jstransformer"
   ],
@@ -17,8 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jstransformers/jstransformer-foo.git"
+    "url": "https://github.com/jstransformers/jstransformer-html-minifier.git"
   },
-  "author": "Your Name <email@example.com>",
-  "license": "MIT"
+  "author": "Rob Loach <robloach@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-minifier": "^0.7.2",
+    "merge": "^1.2.0"
+  }
 }
