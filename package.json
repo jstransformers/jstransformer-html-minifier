@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-html-minifier",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "HTMLMinifier support for JSTransformers.",
   "keywords": [
     "jstransformer"
