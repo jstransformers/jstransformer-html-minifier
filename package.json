@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-html-minifier",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "HTMLMinifier support for JSTransformers.",
   "keywords": [
     "jstransformer"
@@ -12,17 +12,20 @@
     "test-jstransformer": "^1.0.0"
   },
   "scripts": {
-    "test": "test-jstransformer",
-    "coverage": "test-jstransformer coverage"
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/jstransformers/jstransformer-html-minifier.git"
   },
-  "author": "Rob Loach <robloach@gmail.com>",
+  "author": {
+    "name": "JSTransformers Team",
+    "url": "http://github.com/orgs/jstransformers/people"
+  },
   "license": "MIT",
   "dependencies": {
-    "html-minifier": "^0.7.2",
-    "merge": "^1.2.0"
+    "extend-shallow": "^2.0.1",
+    "html-minifier": "^0.8.0"
   }
 }
