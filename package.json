@@ -26,6 +26,6 @@
   "license": "MIT",
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "html-minifier": "^0.8.0"
+    "html-minifier": "^1.0.0"
   }
 }
