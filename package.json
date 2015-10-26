@@ -2,6 +2,10 @@
   "name": "jstransformer-html-minifier",
   "version": "1.0.0",
   "description": "HTMLMinifier support for JSTransformers.",
+  "dependencies": {
+    "extend-shallow": "^2.0.1",
+    "html-minifier": "^1.0.0"
+  },
   "keywords": [
     "jstransformer"
   ],
@@ -26,9 +30,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "extend-shallow": "^2.0.1",
-    "html-minifier": "^1.0.0"
-  }
+  "license": "MIT"
 }
