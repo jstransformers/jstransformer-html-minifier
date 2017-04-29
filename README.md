@@ -1,5 +1,7 @@
 # jstransformer-html-minifier
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-html-minifier.svg)](https://greenkeeper.io/)
+
 [HTMLMinifier](https://github.com/kangax/html-minifier) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-html-minifier/master.svg)](https://travis-ci.org/jstransformers/jstransformer-html-minifier)
