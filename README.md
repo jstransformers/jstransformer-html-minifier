@@ -15,7 +15,7 @@
 ## API
 
 ```js
-var htmlmin = require('jstransformer')(require('jstransformer-html-minifier'));
+var htmlmin = require('jstransformer')(require('jstransformer-html-minifier'))
 
 htmlmin.render('<p title="blah" id="moo">html-minifier</p>', {
   removeAttributeQuotes: true
