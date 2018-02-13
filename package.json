@@ -1,9 +1,9 @@
 {
   "name": "jstransformer-html-minifier",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "HTMLMinifier support for JSTransformers.",
   "dependencies": {
-    "extend-shallow": "^2.0.1",
+    "extend-shallow": "^3.0.2",
     "html-minifier": "^3.0.0"
   },
   "keywords": [

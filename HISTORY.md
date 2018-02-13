@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.0: 2018-02-13
+
+- Updated to `extend-shallow@^3.0.2`
+
 ## v1.1.0: 2015-10-26
 
 - Updated to `html-minifier@^3.0.0`
