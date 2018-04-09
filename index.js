@@ -1,7 +1,7 @@
 'use strict'
 
-var minify = require('html-minifier').minify
-var extend = require('extend-shallow')
+const minify = require('html-minifier').minify
+const extend = require('extend-shallow')
 
 exports.name = 'html-minifier'
 exports.inputFormats = ['htmlmin', 'html-minifier', 'html']
