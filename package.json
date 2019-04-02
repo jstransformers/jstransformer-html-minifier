@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-html-minifier",
-  "version": "1.2.0",
+  "version": "4.0.0",
   "description": "HTMLMinifier support for JSTransformers.",
   "dependencies": {
     "extend-shallow": "^3.0.2",
@@ -27,10 +27,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jstransformers/jstransformer-html-minifier.git"
-  },
-  "author": {
-    "name": "JSTransformers Team",
-    "url": "http://github.com/orgs/jstransformers/people"
   },
   "author": {
     "name": "JSTransformers Team",

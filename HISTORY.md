@@ -1,5 +1,9 @@
 # Changelog
 
+## v4.0.0: 2019-04-02
+
+- Updated to `html-minifier@^4.0.0`
+
 ## v1.2.0: 2018-02-13
 
 - Updated to `extend-shallow@^3.0.2`
