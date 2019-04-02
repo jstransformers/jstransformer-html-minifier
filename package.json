@@ -4,7 +4,7 @@
   "description": "HTMLMinifier support for JSTransformers.",
   "dependencies": {
     "extend-shallow": "^3.0.2",
-    "html-minifier": "^3.0.0"
+    "html-minifier": "^4.0.0"
   },
   "keywords": [
     "jstransformer"
